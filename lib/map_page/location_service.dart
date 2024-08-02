@@ -3,7 +3,7 @@ import 'dart:convert' as convert;
 import 'package:flutter_polyline_points/flutter_polyline_points.dart';
 
 class LocationService {
-  final String key = "AIzaSyB6AfQUuV4fZhJKPVCx3gejHXztQfu2y5I";
+  final String key = "PUT GOOGLE MAP API KEY HERE";
 
   Future<String> getPlaceId(String input) async {
     final String url =
