@@ -1,6 +1,9 @@
-# kidnav: ##Development of a child safety and location monitoring app made with flutter.
+# kidnav: 
+### Development of a child safety and location monitoring app.
 
-### Features of App
+## Child Location Monotoring App
+
+###Features 
 1. Track location
 2. View location on map
 3. Create geofence
