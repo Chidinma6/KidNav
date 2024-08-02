@@ -1,16 +1,19 @@
 # kidnav
 
-A new Flutter project.
+Development of a child safety and location monitoring app made with flutter.
 
-## Getting Started
+### Features of App
+1. Track location
+2. View location on map
+3. Create geofence
+4. View geofence
+5. Recieve geofence alert
+6. View geofence alert history
+7. View location history list
 
-This project is a starting point for a Flutter application.
+## GPS Tracker
+The hardware components of this GPS tracker is the ESP32 micromtroller and GPS module
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
