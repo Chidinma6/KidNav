@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "155201213192",
+    "project_id": "kidnav-authentication",
+    "storage_bucket": "kidnav-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155201213192:android:128d0a4b7690d84a2f12bd",
+        "android_client_info": {
+          "package_name": "com.example.kidnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155201213192-c5vrtoid2r6fv4481f47fpbadi5k0p5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidnav",
+            "certificate_hash": "e5d8a1405a36cc474293ae7868543305a96490dc"
+          }
+        },
+        {
+          "client_id": "155201213192-a8cp6n148dodt045v3r8jboiqbc2nunj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfWuLoAEzkKO1pQZYDVt2Bq_gDBsfBik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155201213192-a8cp6n148dodt045v3r8jboiqbc2nunj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155201213192-iatbh51j6o6bmqtuplq5u4novgltt5ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kidnav"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
