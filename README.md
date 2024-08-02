@@ -1,5 +1,6 @@
 # kidnav: 
 ### Development of a child safety and location monitoring app.
+Images are in folder called "images"
 
 ## Child Location Monotoring App
 
