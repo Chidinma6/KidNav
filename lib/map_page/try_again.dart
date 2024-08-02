@@ -16,7 +16,7 @@ class _TryAgainState extends State<TryAgain> {
       Completer<GoogleMapController>();
 
   final String googleApiKey =
-      "AIzaSyB6AfQUuV4fZhJKPVCx3gejHXztQfu2y5I"; // Replace with your Google API key
+      "Replace with your Google API key"; // Replace with your Google API key
 
   static const LatLng sourceLocation = LatLng(37.4221, -122.0853);
 
