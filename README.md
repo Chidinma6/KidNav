@@ -3,7 +3,7 @@
 
 ## Child Location Monotoring App
 
-###Features 
+### Features 
 1. Track location
 2. View location on map
 3. Create geofence
