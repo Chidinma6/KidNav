@@ -112,7 +112,7 @@
 	<key>io.flutter.embedded_views_preview</key>
 	<true/>
 	<key>GMSApiKey</key>
-	<string>"AIzaSyB6AfQUuV4fZhJKPVCx3gejHXztQfu2y5I"</string>
+	<string>"PUT YOUR API KEY"</string>
 
 </dict>
 </plist>
