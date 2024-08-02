@@ -1,4 +1,4 @@
-![Screenshot_20240628_051340](https://github.com/user-attachments/assets/d6677128-6e7e-406d-958c-05581da034b9)# kidnav: 
+# kidnav: 
 ### Development of a child safety and location monitoring app.
 
 ## Child Location Monotoring App
