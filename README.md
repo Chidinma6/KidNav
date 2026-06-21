@@ -1,4 +1,4 @@
-<img width="1200" height="1920" alt="Screenshot_20240623_133308" src="https://github.com/user-attachments/assets/d3117b5d-7147-4909-a041-14eef2933fe7" />
+<img width="120" height="192" alt="Screenshot_20240623_133308" src="https://github.com/user-attachments/assets/d3117b5d-7147-4909-a041-14eef2933fe7" />
 # kidnav: 
 ### Development of a child safety and location monitoring app.
 Images are in folder called "images"
